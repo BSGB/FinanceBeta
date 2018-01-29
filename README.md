@@ -1,1 +1,1 @@
-# SecondVaadinUI
+# Projekt do wiadomo kogo
